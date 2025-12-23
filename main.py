@@ -1,4 +1,4 @@
-from paho.mqtt.client as mqtt
+import paho.mqtt.client as mqtt
 from gpiozero import Button
 from signal import pause
 
